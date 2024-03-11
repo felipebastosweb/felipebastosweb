@@ -1,7 +1,9 @@
 - 👋 Hi, I’m @felipebastosweb
-- 👀 I’m interested in: Language Programming as C#.Net, Python, Javascript, Pascal (Lazarus and Delphi); Database as SQL Server, MySQL/MariaDB, Oracle, ArangoDB, SQLite, etc.
-- 🌱 I’m currently learning: Mobile Development, Microservices, UI/UX, Business and Projects
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in:
+  -  Language Programming as C#.Net, Python, Javascript, Pascal (Lazarus and Delphi), D, Rust, Go, etc;
+  -  Databases as MongoDB, SQL Server, MySQL/MariaDB, Oracle, ArangoDB, SQLite, etc.
+- 🌱 I’m currently learning: Mobile Development, Microservices, Web Development, UI/UX, Business and Projects
+- 💞️ I’m looking to collaborate with my Tech and Manager Skills
 - 📫 How to reach me: @felipebastosweb in social networks.
 
 <!---
